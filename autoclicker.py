@@ -11,4 +11,4 @@ class AutoClicker:
         # Logic to stop clicking goes here
 
     def is_clicking(self):
-        return self.clicking  
+        return self.clicking
